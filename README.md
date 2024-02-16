@@ -1,38 +1,8 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+<h2 align="center">Ignite - Chapter 5 - Transferências com a FinAPI 🚀</h2>
+<h5 align="center"><a href="https://rocketseat.com.br/" >Rocketseat</a> - Trilha Node js</h5>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+## :memo: Descrição do desafio
 
+Nesse desafio você irá implementar uma nova funcionalidade na FinAPI, a aplicação que foi testada durante o desafio **[Testes unitários](https://www.notion.so/Desafio-01-Testes-unit-rios-0321db2af07e4b48a85a1e4e360fcd11)**.
 
-## 💻 Projeto
-
-ignite-template-tests-challenge
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+A nova funcionalidade deverá permitir a transferência de valores entre contas. Para isso, você pode pensar na melhor forma de construir essa solução mas alguns requisitos deverão ser cumpridos.
